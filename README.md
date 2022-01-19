@@ -1,4 +1,4 @@
-![](https://https://github.com/2kcybab/Portfolio/images/suradejpongudomsan-pic.jpg)
+![](https://github.com/2kcybab/Portfolio/blob/images/suradejpongudomsan-pic.jpg)
 
 # SURADEJ PONGUDOMSAN Portfolio
 General Manager in Software Development Team at CPF IT CENTER , Bangkok
